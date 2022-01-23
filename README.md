@@ -1,4 +1,4 @@
-# forum-front-end-vue
+# Restaurant-Forum
 
 ## Project setup
 ```
